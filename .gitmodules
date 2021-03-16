@@ -7,3 +7,9 @@
 [submodule "lib/FixedString"]
 	path = lib/FixedString
 	url = https://github.com/toomasz/FixedString.git
+[submodule "lib/EasyButton"]
+	path = lib/EasyButton
+	url = https://github.com/evert-arias/EasyButton.git
+[submodule "lib/hlw8012"]
+	path = lib/hlw8012
+	url = https://github.com/xoseperez/hlw8012.git
